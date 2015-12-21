@@ -1,0 +1,11 @@
+node_modules/
+bower_components/
+npm-debug.log
+coverage
+docs/*.json
+docs/code*.js
+CHANGELOG.md.tmp
+samples/browser/restlet.js
+samples/browser/restlet.min.js
+browser/bundle.js.map
+.idea/
